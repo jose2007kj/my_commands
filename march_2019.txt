@@ -1,0 +1,1000 @@
+ 1035  git branch
+ 1036  git checkout account_manager 
+ 1037  react-native run-android
+ 1038  npm install
+ 1039  react-native run-android
+ 1040  npm install
+ 1041  ./studio.sh
+ 1042  history
+ 1043  ./studio.sh
+ 1044  git status
+ 1045  git add .
+ 1046  git commit -m "added few more codes"
+ 1047  git banch
+ 1048  git branch
+ 1049  git push origin
+ 1050  git clone https://gitlab.com/Baralakash/At_daB.git
+ 1051  cd At_daB/
+ 1052  ls
+ 1053  git branch
+ 1054  git branch -a
+ 1055  gitk --all
+ 1056  git checkout origin/coordinating_with_parrysing
+ 1057  git checkout coordinating_with_parrysing
+ 1058  git status
+ 1059  git branch
+ 1060  react-native start --reset-cache
+ 1061  history
+ 1062  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1063  react-native start --reset-cache
+ 1064  npm install git+https://git@github.com/VadakkekaraApps/linkedin-authentication --save
+ 1065  npm install git+https://git@github.com/VadakkekaraApps/linkedin-authentication.git --save
+ 1066  npm install git+https://git@github.com/VadakkekaraApps/linkedin-authentication.git
+ 1067  npm install --save git+https://git@github.com/VadakkekaraApps/linkedin-authentication.git
+ 1068  rm -rf .git
+ 1069  git status
+ 1070  git
+ 1071  react-native link react-native-snapchat-login
+ 1072  git status
+ 1073  git add .
+ 1074  git commit -m "latest changes"
+ 1075  git push origin
+ 1076  react-native run-android
+ 1077  react-native log-android
+ 1078  adb shell input text "RR"
+ 1079  react-native log-android
+ 1080  adb shell input text "RR"
+ 1081  react-native log-android
+ 1082  adb shell input text "RR"
+ 1083  react-native log-android
+ 1084  adb shell input text "RR"
+ 1085  npm install react-native-linkedin-login --save;
+ 1086  react-native start --reset-cache
+ 1087  react-native run-android
+ 1088  history
+ 1089  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1090  react-native start --reset-cache
+ 1091  adb shell input text "RR"
+ 1092  ant tryme
+ 1093  git clone https://github.com/tiagohs/spring-javafx-material-design-admin.git
+ 1094  history
+ 1095  ls
+ 1096  cd ..
+ 1097  ls
+ 1098  java -jar scenebuilder-10.0.0-all.jar 
+ 1099  java -jar scenebuilder-8.5.0-all.jar 
+ 1100  ./studio.sh 
+ 1101  react-native start --reset-cache
+ 1102  react-native log-android
+ 1103  adb shell input text "RR"
+ 1104  react-native log-android
+ 1105  cd ..
+ 1106  git clone https://github.com/VadakkekaraApps/react-native-line.git
+ 1107  git clone https://github.com/line/line-sdk-android.git
+ 1108  git status
+ 1109  git add .
+ 1110  git commit -m "finally working fine android"
+ 1111  git branch
+ 1112  git push origin master
+ 1113  react-native run-android
+ 1114  react-native log-android
+ 1115  adb shell input text "RR"
+ 1116  react-native log-android
+ 1117  adb shell input text "RR"
+ 1118  react-native log-android
+ 1119  adb shell input text "RR"
+ 1120  react-native log-android
+ 1121  adb shell input text "RR"
+ 1122  react-native log-android
+ 1123  adb shell input text "RR"
+ 1124  react-native run-android
+ 1125  cd android/
+ 1126  ./gradlew assembleRelease
+ 1127  cd ..
+ 1128  git add .
+ 1129  git commit -m 'added skype,hike'
+ 1130  git push origin quicklink_linkedin
+ 1131  react-native run-android
+ 1132  git add .
+ 1133  git commit -m 'added skype,hike update in friends profile page'
+ 1134  git push origin quicklink_linkedin
+ 1135  react-native run-android
+ 1136  adb shell input text "RR"
+ 1137  git add .
+ 1138  git commit -m "quick_link button made visible to relevent platforms only"
+ 1139  adb shell input text "RR"
+ 1140  react-native run-android
+ 1141  cd android/
+ 1142  ./gradlew assembleRelease
+ 1143  cd ..
+ 1144  git add .
+ 1145  git commit -m 'added fix for removing https from urls,done gitlab,github,stack'
+ 1146  react-native run-android
+ 1147  adb shell input text "RR"
+ 1148  git status
+ 1149  git add .
+ 1150  git status
+ 1151  git add .
+ 1152  git status
+ 1153  git add .
+ 1154  git status
+ 1155  git commit -m "last commit before moving to line sdk"
+ 1156  git push origin quicklink_linkedin
+ 1157  git checkout -b quick_link_line
+ 1158  npm install react-native-line-sdk --save
+ 1159  react-native link react-native-line-sdk
+ 1160  react-native run-android
+ 1161  react-native link react-native-line-sdk
+ 1162  react-native run-android
+ 1163  clear
+ 1164  react-native run-android
+ 1165  clear
+ 1166  react-native run-android
+ 1167  cd android/
+ 1168  cd ..
+ 1169  git status
+ 1170  git add .
+ 1171  git commit -m "added line quick link"
+ 1172  cd android/
+ 1173  ./gradlew assembleRelease
+ 1174  ./gradlew assembleRelease --stacktrace
+ 1175  ./gradlew assembleRelease
+ 1176  ant tryme
+ 1177  hi~story
+ 1178  history
+ 1179  java -jar scenebuilder-8.5.0-all.jar
+ 1180  adb logcat
+ 1181  adb logcat -b crash
+ 1182  adb logcat -d
+ 1183  adb -d logcat com.atdabnew
+ 1184  adb logcat | grep -F "`adb shell ps | grep com.atdabnew | cut -c10-15`"
+ 1185  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1186  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1187  ./gradlew assembleRelease
+ 1188  cd android/
+ 1189  ./gradlew assembleRelease
+ 1190  cd ..
+ 1191  react-native start --reset-cache
+ 1192  react-native log-android
+ 1193  adb shell input text "RR"
+ 1194  react-native log-android
+ 1195  react-native start --reset-cache
+ 1196  react-native run-android
+ 1197  cd android/
+ 1198  ./gradlew assembleRelease
+ 1199  cd ..
+ 1200  react-native run-android
+ 1201  react-native log-android
+ 1202  react-native run-android
+ 1203  react-native log-android
+ 1204  react-native run-android
+ 1205  react-native log-android
+ 1206  adb shell input text "RR"
+ 1207  react-native log-android
+ 1208  react-native run-android
+ 1209  react-native log-android
+ 1210  react-native run-android
+ 1211  react-native log-android~
+ 1212  adb shell input text "RR"
+ 1213  react-native log-android~~
+ 1214  adb shell input text "RR"~~
+ 1215  react-native log-android~~
+ 1216  adb shell input text "RR"
+ 1217  react-native log-android
+ 1218  react-native run-android
+ 1219  react-native log-android
+ 1220  react-native run-android
+ 1221  react-native log-android
+ 1222  react-native run-android
+ 1223  react-native log-android
+ 1224  adb shell input text "RR"~~
+ 1225  adb shell input text "RR"
+ 1226  react-native log-android
+ 1227  adb shell input text "RR"
+ 1228  react-native log-android
+ 1229  adb shell input text "RR"
+ 1230  react-native log-android
+ 1231  react-native run-android
+ 1232  react-native log-android
+ 1233  react-native run-android
+ 1234  react-native log-android
+ 1235  react-native run-android
+ 1236  adb shell input text "RR"
+ 1237  react-native run-android
+ 1238  react-native log-android
+ 1239  history
+ 1240  ~~~~~;2~~~~~~~~~@@@@::::::~~~~;2~~~~~~~~~~;2~~;2~;2~;2~~~~~~~~~~~~~~~~~~~~~;2~;2~;2~;2~;2~;2~;2~;2~@;2~@;2~@;2~@@@@@@;2~;2~@;2~;2~;2~~~~2~2~~`2;;1~~`<<<<<<<<<<<;2~@~:::::::::::::~pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1241  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1242  react-native run-android
+ 1243  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1244  ./gradlew clean
+ 1245  ~cd android/
+ 1246  cd android/
+ 1247  ./gradlew clean~
+ 1248  ./gradlew clean
+ 1249  cd ..~~
+ 1250  react-native run-android
+ 1251  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1252  react-native run-android
+ 1253  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid~
+ 1254  adb shell input text "RR"
+ 1255  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid~~
+ 1256  react-native run-android~
+ 1257  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1258  react-native run-android~
+ 1259  adb shell input text "RR~Log.d("RNSnapchatLogin","testing is user logged in"+str);~~~
+ 1260  adb shell input text "RR"
+ 1261  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid~
+ 1262  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pi~d
+ 1263  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1264  react-native run-android
+ 1265  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid~~
+ 1266  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1267  react-native run-android
+ 1268  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1269  react-native run-android
+ 1270  adb shell input text "RR"
+ 1271  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1272  adb shell input text "RR"
+ 1273  react-native run-android
+ 1274  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1275  react-native run-android
+ 1276  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid~
+ 1277  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1278  gcc aravind.c
+ 1279  ./a.out 
+ 1280  history
+ 1281  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1282  history >kj_commands
+ 1283  react-native start --reset-cache
+ 1284  git status
+ 1285  git add .
+ 1286  git commit -m "added code fixing ordering while platform visiblility update"
+ 1287  git push secondary undo_request:master
+ 1288  react-native run-android
+ 1289  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1290  adb shell input text "RR"
+ 1291  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1292  git satus
+ 1293  git status
+ 1294  git add .
+ 1295  git commit -m "trying youtube channel fetch,many other commits which i forgot"
+ 1296  adb shell input text "RR"
+ 1297  react-native run-android
+ 1298  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1299  adb shell input text "RR"
+ 1300  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1301  adb shell input text "RR"
+ 1302  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1303  adb shell input text "RR"
+ 1304  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1305  adb shell input text "RR"
+ 1306  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1307  adb shell input text "RR"
+ 1308  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1309  adb shell input text "RR"
+ 1310  react-native run-android
+ 1311  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1312  adb shell input text "RR"
+ 1313  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1314  adb shell input text "RR"
+ 1315  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1316  cd ..
+ 1317  cd At_daB/
+ 1318  cd android/
+ 1319  ./gradlew assembleRelease
+ 1320  cd ..
+ 1321  git status
+ 1322  git add .
+ 1323  git commit -m "youtube done"
+ 1324  git push origin quick_link_line
+ 1325  react-native run-android
+ 1326  adb shell input text "RR"
+ 1327  react-native run-android
+ 1328  git add .
+ 1329  git commit -m 'fixed issues in youtube channel linking'
+ 1330  cd android/
+ 1331  ./gradlew assembleRelease
+ 1332  git status
+ 1333  git add .
+ 1334  git commit -m "added latest update"
+ 1335  git push origin master
+ 1336  git init
+ 1337  git add .
+ 1338  git commit -m `added level 1`
+ 1339  git commit -m 'level one done'
+ 1340  git remote add origin https://github.com/jose2007kj/PuzzleApp.git
+ 1341  git push -u origin master
+ 1342  git clone https://github.com/cuilantao/CSC207.git
+ 1343  ./studio.sh 
+ 1344  git status
+ 1345  git add .
+ 1346  git checkout -b request_limit
+ 1347  git status
+ 1348  git checkout -b request_limit
+ 1349  history
+ 1350  git status
+ 1351  rails generate migration AddRequestCountToDabRequests reject_jobid:string
+ 1352  rails db:migrate
+ 1353  rails s -p 3000 -b 0.0.0.0
+ 1354  rails generate migration RenameColoumnInDabRequests
+ 1355  rails db:migrate
+ 1356  rails s -p 3000 -b 0.0.0.0
+ 1357  git status
+ 1358  git add .
+ 1359  git commit -m "added code for request limit"
+ 1360  git push secondary request_limit:master
+ 1361  heroku logs
+ 1362  heroku logs --app atdab-staging
+ 1363  heroku rake db:migrate
+ 1364  heroku rake db:migrate --app atdab-staging
+ 1365  git add .
+ 1366  git commit -m "error fix"
+ 1367  git push secondary request_limit:master
+ 1368  git add .
+ 1369  git commit -m "error fix"
+ 1370  git push secondary request_limit:master
+ 1371  git add .
+ 1372  git commit -m "error fix"
+ 1373  git push secondary request_limit:master
+ 1374  git add .
+ 1375  git commit -m "minor update"
+ 1376  git push secondary request_limit:master
+ 1377  ./studio.sh 
+ 1378  git add .
+ 1379  git commit -m "minor update to fix friend profile platform request"
+ 1380  git push secondary request_limit:master
+ 1381  git add .
+ 1382  git commit -m "minor update to fix friend profile platform request"
+ 1383  git push secondary request_limit:master
+ 1384  git add .
+ 1385  git commit -m "minor update to fix friend profile platform request"
+ 1386  git push secondary request_limit:master~~~
+ 1387  git push secondary request_limit:master
+ 1388  git add .
+ 1389  git push secondary request_limit:master
+ 1390  git commit -m "minor update to fix friend profile platform request"
+ 1391  git push secondary request_limit:master~
+ 1392  git push secondary request_limit:master
+ 1393  git add .
+ 1394  git commit -m "minor update to fix friend profile platform request"
+ 1395  git push secondary request_limit:master~~
+ 1396  git push secondary request_limit:master
+ 1397  git add .
+ 1398  git commit -m "minor update to fix friend profile platform request"
+ 1399  git push secondary request_limit:master
+ 1400  git add .
+ 1401  git commit -m "minor update to fix friend profile platform request"
+ 1402  git push secondary request_limit:master
+ 1403  git add .~~
+ 1404  git add .
+ 1405  git commit -m "minor update to fix friend profile platform request"
+ 1406  git push secondary request_limit:master
+ 1407  git add .
+ 1408  git commit -m "minor update to fix visibility"
+ 1409  git push secondary request_limit:master
+ 1410  git add .
+ 1411  git commit -m "minor update to fix visibility"
+ 1412  git push secondary request_limit:master
+ 1413  git status
+ 1414  git push orign request_limit
+ 1415  history
+ 1416  git push origin request_limit
+ 1417  ./studio.sh
+ 1418  git status
+ 1419  npm install @ant-design/react-native --save
+ 1420  ./studio.sh
+ 1421  hots~ory~~
+ 1422  history
+ 1423  pid=$(adb shell ps | grepcom.slideingpuzzle.puzzleapp | cut -c11-15) ; adb logcat | grep $pid
+ 1424  pid=$(adb shell ps | grep com.slideingpuzzle.puzzleapp | cut -c11-15) ; adb logcat | grep $pid
+ 1425  git status~
+ 1426  history
+ 1427  ~~~~~~~~~~~~~~~~~sudo sysctl fs.inotify.max_user_watches=9224288
+ 1428  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1429  sudo sysctl fs.inotify.max_user_watches=922428
+ 1430  react-native start --reset-cache
+ 1431  npm install
+ 1432  react-native start --reset-cache
+ 1433  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1434  react-native start --reset-cache
+ 1435  react-native run-android~~
+ 1436  react-native run-android
+ 1437  adb shell input text "RR"
+ 1438  adb shell input text "RR"~
+ 1439  adb shell input text "RR"
+ 1440  react-native run-android
+ 1441  ./studio.sh~
+ 1442  ./studio.sh
+ 1443  sudo add-apt-repository -y ppa:linuxgndu/sqlitebrowser
+ 1444  sudo apt-get update
+ 1445  sudo apt-get install sqlitebrowser
+ 1446  ant tryme
+ 1447  ./studio.sh
+ 1448  git status
+ 1449  git add .
+ 1450  git commit -m "added purchase details"
+ 1451  git push origin master
+ 1452  git add .
+ 1453  git commit -m "consultation in progess"
+ 1454  git push origin master
+ 1455  ant tryme
+ 1456  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1457  react-native start --reset-cache
+ 1458  ~/.babelrc
+ 1459  npm -v
+ 1460  node -v
+ 1461  npm install --global gatsby-cli
+ 1462  preact start
+ 1463  preact watch
+ 1464  npm start
+ 1465  preact start
+ 1466  preact watch
+ 1467  npm install
+ 1468  preact watch
+ 1469  npm install babel-preset-es2015
+ 1470  preact watch
+ 1471  npm install
+ 1472  preact watch
+ 1473  preact -v
+ 1474  preact-cli -v
+ 1475  preact watch
+ 1476  gatsby develop
+ 1477  npx create-react-app VadakkekaraApps
+ 1478  vadakkekaraapps
+ 1479  npx create-react-app vadakkekaraapps
+ 1480  cd vadakkekaraapps/
+ 1481  npm start
+ 1482  cd ..
+ 1483  gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension
+ 1484  ls
+ 1485  cd gatsby-starter-dimension/
+ 1486  gatsby develop
+ 1487  cd ..
+ 1488  git clone SemiColonWeb
+ 1489  git clone https://github.com/tryptofan/react-next.git
+ 1490  cd react-next/
+ 1491  npm install
+ 1492  npm run dev
+ 1493  cd ..
+ 1494  git clone https://github.com/nebulr/jamesameyer.git
+ 1495  cd jamesameyer/
+ 1496  npm install
+ 1497  npm start
+ 1498  git checkout -b cleaned_code
+ 1499  git push origin cleaned_code 
+ 1500  git add .
+ 1501  git commit -m 'bill_generation_done'
+ 1502  git branch
+ 1503  git push origin cleaned_code 
+ 1504  ant tryme
+ 1505  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1506  react-native start --reset-cache
+ 1507  react-native run-android
+ 1508  cd android/
+ 1509  ./gradlew assembleRelease
+ 1510  hugo new site quickstart
+ 1511  snap install hugo
+ 1512  sudo install hugo
+ 1513  snapd
+ 1514  snap
+ 1515  sudo snap install hugo
+ 1516  hugo help
+ 1517  cd quickstart/
+ 1518  hugo server -D
+ 1519  git init
+ 1520  git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+ 1521  hugo new posts/my-first-post.md
+ 1522  hugo server -D
+ 1523  sudohugo new site quickstart 
+ 1524  sudo hugo new site quickstart
+ 1525  git add .
+ 1526  gi status
+ 1527  git status
+ 1528  git commit -m 'modification in progress'
+ 1529  git branch
+ 1530  git commit -m 'modification in progress'
+ 1531  git push origin cleaned_code
+ 1532  adb devices
+ 1533  adb devices -1
+ 1534  adb devices -l
+ 1535  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1536  react-native start --reset-cache
+ 1537  d incubating-netbeans-java-9.0-source
+ 1538  cd incubating-netbeans-java-9.0-source/
+ 1539  ant tryme
+ 1540  emulator -avd Nexus_5X_API_27 -use-system-libs
+ 1541  emulator -avd Nexus_5X_API_26 -use-system-libs
+ 1542  emulator -avd Nexus_5X_API_27 -use-system-libs
+ 1543  adb devices
+ 1544  react-native run-android
+ 1545  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1546  react-native start --reset-cache
+ 1547  git clone https://github.com/dennybritz/cnn-text-classification-tf.git
+ 1548  cd ..
+ 1549  ls
+ 1550  cd bot_env3
+ 1551  ls
+ 1552  cd bin/
+ 1553  activate
+ 1554  source activate
+ 1555  python
+ 1556  exit
+ 1557  source activate
+ 1558  deactivate
+ 1559  source deactivate
+ 1560  exit
+ 1561  source activate
+ 1562  cd ..
+ 1563  cd python2_env/
+ 1564  cd bin/
+ 1565  source activate
+ 1566  ./activate
+ 1567  source ./activate
+ 1568  source deactivate
+ 1569  source ./deactivate
+ 1570  source .\deactivate
+ 1571  source ./deactivate
+ 1572  deactivate
+ 1573  source ./deactivate
+ 1574  exit
+ 1575  ./activate
+ 1576  source ./activate
+ 1577  cd ..
+ 1578  cd aswathi_sajeevan/
+ 1579  ls
+ 1580  cd cnn-text-classification-tf/
+ 1581  ls
+ 1582  ./eval.py 
+ 1583  ./eval.py --eval_train --checkpoint_dir="./runs/1459637919/checkpoints/"
+ 1584  ./train.py
+ 1585  pip install numpy --upgrade
+ 1586  ./train.py
+ 1587  git status
+ 1588  git add .
+ 1589  git commit -m "added block and unblock functions and models etc"
+ 1590  rails s -p 3000 -b 0.0.0.0
+ 1591  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1592  rails s -p 3000 -b 0.0.0.0
+ 1593  git status
+ 1594  git push secondary request_limit:master
+ 1595  heroku log
+ 1596  heroku logs
+ 1597  heroku logs --app atdab-staging
+ 1598  git add .
+ 1599  git commit -m "fixed error"
+ 1600  clear
+ 1601  git push secondary request_limit:master
+ 1602  git add .
+ 1603  git commit -m "fixed error"
+ 1604  git push secondary request_limit:master
+ 1605  git push origin request_limit
+ 1606  git add .
+ 1607  git commit -m "fixed csrf issue due to a mistake in controller"
+ 1608  git push secondary request_limit:master
+ 1609  git add .
+ 1610  git add .git commit -m 'fixed minor issue'
+ 1611  git add .
+ 1612  git commit -m 'fixed minor issue'
+ 1613  git push secondary request_limit:master
+ 1614  git add .
+ 1615  git commit -m 'unblock option minor fix'
+ 1616  git push secondary request_limit:master
+ 1617  git status
+ 1618  git push secondary request_limit:master
+ 1619  git push origin request_limit 
+ 1620  REACT-NATIVE LOG-ANDROID
+ 1621  react-native log-android
+ 1622  react-native start --reset-cache
+ 1623  cd ..
+ 1624  history >commands_2019 
+ 1625  cd At_daB/
+ 1626  git status
+ 1627  react-native run-android
+ 1628  react-native log-android
+ 1629  adb shell input text "RR"
+ 1630  react-native log-android
+ 1631  adb shell input text "RR"
+ 1632  react-native log-android
+ 1633  adb shell input text "RR"
+ 1634  react-native log-android
+ 1635  react-native run-android
+ 1636  react-native log-android
+ 1637  adb shell input text "RR"
+ 1638  react-native log-android
+ 1639  adb shell input text "RR"
+ 1640  react-native log-android
+ 1641  adb shell input text "RR"
+ 1642  react-native log-android
+ 1643  adb shell input text "RR"
+ 1644  git add .
+ 1645  git commit -m "completed block unblock"
+ 1646  git push origin request_limit
+ 1647  cd android/
+ 1648  ./gradlew assembleRelease
+ 1649  exit
+ 1650  git status
+ 1651  git add .
+ 1652  git commit -m "added two roles for users"
+ 1653  git branch
+ 1654  git push origin cleaned_code
+ 1655  java -jar scenebuilder-8.5.0-all.jar 
+ 1656  git add .
+ 1657  git commit -m "migrated to new table now working on alering tables"
+ 1658  git status
+ 1659  git push origin cleaned_code
+ 1660  git status
+ 1661  ant tryme
+ 1662  react-native log-android
+ 1663  ant tryme
+ 1664  git status
+ 1665  git add .
+ 1666  git commit -m " minor fixing done and it seems working"
+ 1667  git push origin cleaned_code 
+ 1668  git status
+ 1669  git add .
+ 1670  git commit -m "added fedback"
+ 1671  git push origin request_limit 
+ 1672  git status
+ 1673  git add .
+ 1674  gi commit -m "trying to fix block issue"
+ 1675  git commit -m "trying to fix block issue"
+ 1676  git push secondary request_limit:master
+ 1677  git add .
+ 1678  git commit -m "trying to fix block issue"
+ 1679  git push secondary request_limit:master
+ 1680  git add .
+ 1681  git commit -m "fixed the block issue"
+ 1682  git push secondary request_limit:master
+ 1683  git add .
+ 1684  git commit -m "trying a better fix"
+ 1685  git push secondary request_limit:master
+ 1686  git branch
+ 1687  git push origin request_limit
+ 1688  git status
+ 1689  git add .
+ 1690  git commit -m 'return messsage in feedback'
+ 1691  git push secondary request_limit:master
+ 1692  git push origin request_limit
+ 1693  react-native log-android
+ 1694  sudo sysctl fs.inotify.max_user_watches=922428
+ 1695  react-native start --reset-cache
+ 1696  react-native run-android
+ 1697  adb shell input text "RR"
+ 1698  react-native run-android
+ 1699  adb shell input text "RR"
+ 1700  react-native log-android
+ 1701  adb shell input text "RR"
+ 1702  react-native log-android
+ 1703  adb shell input text "RR"
+ 1704  react-native run-android
+ 1705  react-native log-android
+ 1706  adb shell input text "RR"
+ 1707  react-native run-android
+ 1708  react-native log-android
+ 1709  adb shell input text "RR"
+ 1710  react-native run-android
+ 1711  adb shell input text "RR"
+ 1712  react-native run-android
+ 1713  react-native log-android
+ 1714  adb shell input text "RR"
+ 1715  react-native log-android
+ 1716  adb shell input text "RR"
+ 1717  react-native run-android
+ 1718  adb shell input text "RR"
+ 1719  react-native log-android
+ 1720  adb shell input text "RR"
+ 1721  react-native log-android
+ 1722  adb shell input text "RR"
+ 1723  cd android/
+ 1724  ./gradlew assembleRelease
+ 1725  ant tryme
+ 1726  git add .
+ 1727  git commit -m "added few default dates,correced bill generated"
+ 1728  git push origin cleaned_code 
+ 1729  git clone https://github.com/viharmamania/Society-maintenance.git
+ 1730  firebase login
+ 1731  firebase init
+ 1732  firebase login --reauth
+ 1733  firebase init
+ 1734  firebase deploy
+ 1735  firebase -v
+ 1736  firebase
+ 1737  firebase -V
+ 1738  npm update firebase
+ 1739  firebase -V
+ 1740  npm install -g firebase-tools
+ 1741  firebase -V
+ 1742  firebase deploy
+ 1743  git inti
+ 1744  git init
+ 1745  git remote add origin https://github.com/jose2007kj/red.git
+ 1746  git add .
+ 1747  git commit -m  'first version of website done'
+ 1748  git push origin master
+ 1749  firebase deploy
+ 1750  git add .
+ 1751  git commit -m  'first version of website fix done'
+ 1752  git push origin master
+ 1753  npm run dev
+ 1754  cd ..
+ 1755  git clone https://github.com/nelsonchen5/nelson-website.git
+ 1756  cd nelson-website/
+ 1757  npm install
+ 1758  gatsby start
+ 1759  gatsby serve
+ 1760  npm install
+ 1761  rmdir node_modules/
+ 1762  rm -r node_modules/
+ 1763  ls
+ 1764  npm install
+ 1765  gatsby serve
+ 1766  gatsby
+ 1767  gatsby develop
+ 1768  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1769  react-native start --reset-cache
+ 1770  react-native run-android
+ 1771  react-native log-android
+ 1772  adb shell input text "RR"
+ 1773  react-native log-android
+ 1774  adb shell input text "RR"
+ 1775  react-native log-android
+ 1776  adb shell input text "RR"
+ 1777  react-native log-android
+ 1778  adb shell input text "RR"
+ 1779  react-native run-android
+ 1780  react-native log-android
+ 1781  react-native run-android
+ 1782  react-native log-android
+ 1783  adb shell input text "RR"
+ 1784  react-native log-android
+ 1785  adb shell input text "RR"
+ 1786  react-native log-android
+ 1787  adb shell input text "RR"
+ 1788  react-native log-android
+ 1789  adb shell input text "RR"
+ 1790  react-native log-android
+ 1791  adb shell input text "RR"
+ 1792  react-native log-android
+ 1793  adb shell input text "RR"
+ 1794  react-native log-android
+ 1795  react-native run-android
+ 1796  react-native log-android
+ 1797  react-native run-android
+ 1798  react-native log-android
+ 1799  adb shell input text "RR"
+ 1800  react-native log-android
+ 1801  adb shell input text "RR"
+ 1802  react-native log-android
+ 1803  adb shell input text "RR"
+ 1804  react-native log-android
+ 1805  adb shell input text "RR"
+ 1806  react-native log-android
+ 1807  adb shell input text "RR"
+ 1808  react-native log-android
+ 1809  adb shell input text "RR"
+ 1810  react-native log-android
+ 1811  adb shell input text "RR"
+ 1812  react-native log-android
+ 1813  adb shell input text "RR"
+ 1814  react-native log-android
+ 1815  adb shell input text "RR"
+ 1816  react-native log-android
+ 1817  react-native run-android
+ 1818  react-native log-android
+ 1819  adb shell input text "RR"
+ 1820  react-native log-android
+ 1821  adb shell input text "RR"
+ 1822  react-native log-android
+ 1823  adb shell input text "RR"
+ 1824  react-native log-android
+ 1825  adb shell input text "RR"
+ 1826  react-native log-android
+ 1827  adb shell input text "RR"
+ 1828  react-native log-android
+ 1829  adb shell input text "RR"
+ 1830  react-native log-android
+ 1831  adb shell input text "RR"
+ 1832  react-native log-android
+ 1833  adb shell input text "RR"
+ 1834  react-native log-android
+ 1835  adb shell input text "RR"
+ 1836  react-native log-android
+ 1837  adb shell input text "RR"
+ 1838  react-native log-android
+ 1839  adb shell input text "RR"
+ 1840  react-native log-android
+ 1841  adb shell input text "RR"
+ 1842  react-native log-android
+ 1843  adb shell input text "RR"
+ 1844  react-native log-android
+ 1845  adb shell input text "RR"
+ 1846  react-native log-android
+ 1847  adb shell input text "RR"
+ 1848  react-native log-android
+ 1849  adb shell input text "RR"
+ 1850  react-native log-android
+ 1851  adb shell input text "RR"
+ 1852  react-native run-android
+ 1853  react-native log-android
+ 1854  adb shell input text "RR"
+ 1855  react-native log-android
+ 1856  adb shell input text "RR"
+ 1857  react-native log-android
+ 1858  cd android/
+ 1859  ./gradlew assembleRelease
+ 1860  gi status
+ 1861  git staus
+ 1862  git status
+ 1863  git add .
+ 1864  git commit -m 'added code converting url to base64'
+ 1865  git branch
+ 1866  git push origin master
+ 1867  react-native-create-library \ --package-identifier com.jose2007kj.urlTobase64\ --platforms android \urlTobase64
+ 1868  react-native-create-library --package-identifier com.jose2007kj.urlTobase64 --platforms android urlTobase64
+ 1869  cd urlTobase64/
+ 1870  ls
+ 1871  tree
+ 1872  cd android/
+ 1873  ls
+ 1874  cd src/
+ 1875  ls
+ 1876  cd main/
+ 1877  ls
+ 1878  cd java/
+ 1879  ls
+ 1880  cd com/
+ 1881  cd jose2007kj/
+ 1882  cd urlTobase64/
+ 1883  ls
+ 1884  git status
+ 1885  git add .
+ 1886  git commit -m "deeplinking share option half done"
+ 1887  git push origin request_limit
+ 1888  react-native start --reset-cache
+ 1889  adb shell input text "RR"
+ 1890  react-native log-android
+ 1891  adb shell input text "RR"
+ 1892  react-native log-android
+ 1893  adb shell input text "RR"
+ 1894  react-native log-android
+ 1895  adb shell input text "RR"
+ 1896  react-native log-android
+ 1897  adb shell input text "RR"
+ 1898  react-native log-android
+ 1899  adb shell input text "RR"
+ 1900  react-native run-android
+ 1901  react-native log-android
+ 1902  adb shell input text "RR"
+ 1903  react-native log-android
+ 1904  react-native run-android
+ 1905  react-native log-android
+ 1906  evaluating '_reactNativeShare.Share.open'
+ 1907  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1908  adb shell input text "RR"
+ 1909  react-native run-android
+ 1910  adb shell input text "RR"
+ 1911  react-native run-android
+ 1912  cd android/
+ 1913  ./gradlew assembleRelease
+ 1914  react-native start --reset-cache
+ 1915  react-native log-android
+ 1916  react-native run-android
+ 1917  react-native start --reset-cache
+ 1918  react-native log-android
+ 1919  source activate
+ 1920  deactivae
+ 1921  exit
+ 1922  git status
+ 1923  git add .
+ 1924  git commit -m "fixed minor bugs"
+ 1925  git push origin request_limit 
+ 1926  git add .
+ 1927  git commit -m 'added code for redirection'
+ 1928  git push secondary request_limit:master 
+ 1929  git add .
+ 1930  git commit -m 'some minor fix'
+ 1931  git push secondary request_limit:master 
+ 1932  git push origin request_limit
+ 1933  cd bot_env3
+ 1934  cd bin/
+ 1935  source activate
+ 1936  source deactivate
+ 1937  deactivate
+ 1938  exit
+ 1939  source ./activate
+ 1940  cd ..
+ 1941  cd aswathi_sajeevan/
+ 1942  cd review_polarity
+ 1943  python wordembedding.py 
+ 1944  from numpy import __version__
+ 1945  pyton
+ 1946  python
+ 1947  pip install numpy 1.14.2
+ 1948  git init
+ 1949  git add .
+ 1950  git commit -m "uptoembedding done"
+ 1951  git remote add origin https://github.com/jose2007kj/Sentimen-Analysis.git
+ 1952  git push origin master 
+ 1953  git add .
+ 1954  git commit -m 'added readme'
+ 1955  git push origin master 
+ 1956  cd bot_env3
+ 1957  cd bin/
+ 1958  ./source activate
+ 1959  ls
+ 1960  .\source activate
+ 1961  ./source activate
+ 1962  source ./activate
+ 1963  cd ..
+ 1964  cd aswathi_sajeevan/
+ 1965  cd review_polarity/
+ 1966  ./prepare_data.py 
+ 1967  deactivate
+ 1968  cd ..
+ 1969  cd python2_env/
+ 1970  cd bin/
+ 1971  source ./activate
+ 1972  cd ..
+ 1973  cd aswathi_sajeevan/
+ 1974  cd review_polarity/
+ 1975  ls
+ 1976  ./prepare_data.py 
+ 1977  pwd
+ 1978  ./prepare_data.py 
+ 1979  sudo ./prepare_data.py 
+ 1980  python prepare_data.py 
+ 1981  cd ..
+ 1982  cd CS291K/
+ 1983  ls
+ 1984  python cnn_lstm.py
+ 1985  python train.py 
+ 1986  python cnn_lstm.py
+ 1987  python train.py 
+ 1988  cd ..
+ 1989  cd word2vec/
+ 1990  python word2vec.py 
+ 1991  ls
+ 1992  cd ..
+ 1993  cd review_polarity
+ 1994  ls
+ 1995  python gendect.py 
+ 1996  python3 gendect.py 
+ 1997  python wordembedding.pyy 
+ 1998  python wordembedding.py
+ 1999  pwd
+ 2000  react-native run-android
+ 2001  react-native log-android
+ 2002  react-native run-android
+ 2003  react-native log-android
+ 2004  react-native run-android
+ 2005  react-native log-android
+ 2006  adb shell input text "RR"
+ 2007  react-native run-android
+ 2008  react-native log-android
+ 2009  adb shell input text "RR"
+ 2010  react-native log-android
+ 2011  adb shell input text "RR"
+ 2012  react-native log-android
+ 2013  react-native run-android
+ 2014  react-native log-android
+ 2015  adb shell input text "RR"
+ 2016  react-native run-android
+ 2017  react-native log-android
+ 2018  adb shell input text "RR"
+ 2019  react-native log-android
+ 2020  adb shell input text "RR"
+ 2021  cd android/
+ 2022  ./gradlew assembleRelease
+ 2023  git status
+ 2024  cd ..
+ 2025  git status
+ 2026  git add .
+ 2027  git commit -m "fixed sharing and profile redirection issues"
+ 2028  git add .
+ 2029  git commit -m "removed share package from pacjage.json file"
+ 2030  git branch
+ 2031  git push origin request_limit
+ 2032  cd ..
+ 2033  vi march_2019.txt
+ 2034  history>march_2019.txt
