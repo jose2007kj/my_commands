@@ -1,0 +1,1000 @@
+ 1001  git commit -m "updated seed info removed if dev"
+ 1002  git push heroku master
+ 1003  heroku run rake db:seed
+ 1004  heroku ps
+ 1005  heroku ps:stop run.8636
+ 1006  heroku run rake db:seed
+ 1007  git remote add origin git@gitlab.com:jose2007kj/jandrbackend.git
+ 1008  git push -u origin master
+ 1009  git remote set-url origin https://gitlab.com/jose2007kj/jandrbackend.git
+ 1010  git push -u origin master
+ 1011  mkdir JosephandRajaramBackend
+ 1012  cd JosephandRajaramBackend/
+ 1013  rails new . --api
+ 1014  bin/rails s -p 3001
+ 1015  bundle
+ 1016  bin/rails s -p 3001
+ 1017  bin/rails g active_admin:install
+ 1018  bin/rake db:migrate db:seed
+ 1019  bin/rails g active_admin:install
+ 1020  cd 
+ 1021  bin/rails g active_admin:install
+ 1022  bin/rake db:migrate db:seed
+ 1023  bin/rails s -p 3001
+ 1024  bin/rake db:migrate db:seed
+ 1025  bin/rails s -p 3001
+ 1026  bin/rails g active_admin:install
+ 1027  cd ..
+ 1028  rm -r JosephandRajaramBackend/
+ 1029  rm -rf JosephandRajaramBackend/
+ 1030  ls
+ 1031  mkdir JosephandRajaramBackend
+ 1032  cd JosephandRajaramBackend/
+ 1033  rails new . --api
+ 1034  bin/rails s -p 3001
+ 1035  bundle
+ 1036  bin/rails g active_admin:install
+ 1037  rails generate active_admin:install
+ 1038  bin/rails g active_admin:install
+ 1039  cd ..
+ 1040  rm -rf JosephandRajaramBackend/
+ 1041  ls
+ 1042  mkdir Backend
+ 1043  npm start
+ 1044  cd ..
+ 1045  cd mediCareKadHack/
+ 1046  npm start
+ 1047  cd ..
+ 1048  cd dandelion-starter/
+ 1049  cd mediCareKadHack/
+ 1050  npm start
+ 1051  vlc --rate 3 Undestanding_let_and_const_.mp4
+ 1052  vlc --rate 3 Understanding_let_and_const_.mp4
+ 1053  vlc --rate 3 012 Understanding _let_ and _const_.mp4
+ 1054  git satus
+ 1055  git status
+ 1056  git status
+ 1057  git pull origin sync_phone_contacts
+ 1058  git status
+ 1059  git push secondary sync_phone_contacts:master
+ 1060  heroku rakes db:migrate
+ 1061  heroku rake db:migrate
+ 1062  heroku rake db:migrate --app atdab-staging
+ 1063  rails g sidekiq:worker contacts_update_worker
+ 1064  git status
+ 1065  git add .
+ 1066  git commit -m "added code for update
+ 1067  added new worker for update conacts
+ 1068  updated contacts controller for adding update
+ 1069  "
+ 1070  git status
+ 1071  git commit -m "added code for update
+ 1072  added new worker for update conacts
+ 1073  updated contacts controller for adding update
+ 1074  "
+ 1075  git commit -m "added code for update
+ 1076  added new worker for update conacts
+ 1077  updated contacts controller for adding update
+ 1078  "
+ 1079  git status
+ 1080  git push secondary sync_phone_contacts:master
+ 1081  source ./activate
+ 1082  cd ..
+ 1083  cd aswathi_sajeevan/
+ 1084  cd cnn-lstm_final/
+ 1085  python predict.py 
+ 1086  pip list
+ 1087  python --v
+ 1088  python --version
+ 1089  pip freeze > requirements.txt
+ 1090  pip -v
+ 1091  python --version
+ 1092  git clone https://github.com/learn-co-students/jwt-auth-rails-london-web-career-010719.git
+ 1093  cd jwt-auth-rails-london-web-career-010719/
+ 1094  ls
+ 1095  cd server/
+ 1096  bundle
+ 1097  rails db:create
+ 1098  rails db:migrate
+ 1099  rails db:seed
+ 1100  rails s
+ 1101  raisl console
+ 1102  rails console
+ 1103  rails s
+ 1104  bundle add jwt
+ 1105  bundle add active_model_serializers
+ 1106  npx create-react-app JandRFrontEnd
+ 1107  npx create-react-app jandrfrontend
+ 1108  yarn start
+ 1109  cd jandrfrontend/
+ 1110  yarn start
+ 1111  yarn add @material-ui/core
+ 1112  yarn add classnames
+ 1113  npm install --save prop-types
+ 1114  yarn start
+ 1115  yarn add @material-ui/icons
+ 1116  yarn start
+ 1117  yarn build
+ 1118  firebase init
+ 1119  firebase login
+ 1120  firebase init
+ 1121  firebase use --add
+ 1122  firebase deploy
+ 1123  git status
+ 1124  git add .
+ 1125  git commit -m "first commit"
+ 1126  git remote add origin https://gitlab.com/jose2007kj/josephandrajaram.git
+ 1127  git push -u origin master 
+ 1128  history
+ 1129  cd ..
+ 1130  git clone https://github.com/anthonyrojas1205/React-Redux-Material-UI-Second.git
+ 1131  cd React-Redux-Material-UI-Second/
+ 1132  npm install
+ 1133  cd ..
+ 1134  git clone https://github.com/topdeveloper104/react-d3-dashboard.git
+ 1135  cd react-d3-dashboard/
+ 1136  npm install
+ 1137  npm start
+ 1138  cd ..
+ 1139  git clone https://github.com/bigDaddy88/webapp.git
+ 1140  cd webapp/
+ 1141  cd Documents/
+ 1142  npm install
+ 1143  ls
+ 1144  cd eeff-base-master/
+ 1145  ls
+ 1146  npm install
+ 1147  npm start
+ 1148  cd ..
+ 1149  cd react-d3-dashboard/
+ 1150  ls
+ 1151  npm start
+ 1152  cd ..
+ 1153  cd webapp/
+ 1154  cd Documents/
+ 1155  cd eeff-base-master/
+ 1156  npm start
+ 1157  cd ..
+ 1158  ls
+ 1159  git clone https://github.com/alexey92341/React-Diagnosis-Project.git
+ 1160  cd React-Diagnosis-Project/
+ 1161  ls
+ 1162  npm install
+ 1163  npm start
+ 1164  cd ..
+ 1165  git clone https://github.com/realAndrewCohn/react-redux-rails-jwt-auth-guide.git
+ 1166  cd react-redux-rails-jwt-auth-guide/
+ 1167  cd server/
+ 1168  bundle
+ 1169  rails db:create
+ 1170  cd ..
+ 1171  cd client/
+ 1172  npm install
+ 1173  npm start
+ 1174  -version
+ 1175  pip freeze > requirements.txt
+ 1176  pip -v
+ 1177  python --version
+ 1178  git clone https://github.com/learn-co-students/jwt-auth-rails-london-web-career-010719.git
+ 1179  cd jwt-auth-rails-london-web-career-010719/
+ 1180  ls
+ 1181  cd server/
+ 1182  bundle
+ 1183  rails db:create
+ 1184  rails db:migrate
+ 1185  rails db:seed
+ 1186  rails s
+ 1187  raisl console
+ 1188  rails console
+ 1189  rails s
+ 1190  bundle add jwt
+ 1191  bundle add active_model_serializers
+ 1192  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1193  react-native start --reset-cache
+ 1194  react-native log-android
+ 1195  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1196  react-native run-android
+ 1197  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1198  react-native run-android
+ 1199  react-native log-android
+ 1200  react-native run-android
+ 1201  react-native log-android
+ 1202  react-native run-android
+ 1203  react-native log-android
+ 1204  cd android/
+ 1205  cd ..
+ 1206  adb shell input text "RR"
+ 1207  react-native run-android
+ 1208  react-native log-android
+ 1209  git status
+ 1210  git add .
+ 1211  git commit -m "added code for contacts update
+ 1212  added types for update
+ 1213  added update function in action
+ 1214  respective updates in profile page and reducer
+ 1215  "
+ 1216  git status
+ 1217  git push origin sync_phone_contacts
+ 1218  react-native run-android
+ 1219  cd android/
+ 1220  ./gradlew assembleRelease
+ 1221  cd ..
+ 1222  react-native run-android
+ 1223  rails generate model EmployeeType emptype 
+ 1224  rails generate model State name
+ 1225  rails generate model ClientClass  name
+ 1226  rails generate model ProjectCategory  category
+ 1227  rails generate model ProjectStatus  status
+ 1228  rails generate model Employee name gender addresses
+ 1229  rails generate model Gender gender
+ 1230  rails generate model BloodGroup  group_name
+ 1231  rails g controller api/v1/employee_types
+ 1232  rails g controller api/v1/states
+ 1233  rails g controller api/v1/client_classes
+ 1234  rails g controller api/v1/project_categories
+ 1235  rails g controller api/v1/project_statuses
+ 1236  rails g controller api/v1/employees
+ 1237  rails g controller api/v1/genders
+ 1238  rails destroy controller api/v1/employees
+ 1239  rails destroy model Employee
+ 1240  rails generate model User
+ 1241  rails g controller api/v1/users
+ 1242  git status
+ 1243  git add .
+ 1244  git commit -m "added employee related models and controllers"
+ 1245  git push origin master
+ 1246  rails generate active_admin:resource blood_group
+ 1247  rails s
+ 1248  rails generate active_admin:resource client_class
+ 1249  rails generate active_admin:resource employee_type
+ 1250  rails generate active_admin:resource gender
+ 1251  rails generate active_admin:resource project_category
+ 1252  rails generate active_admin:resource project_status
+ 1253  rails generate active_admin:resource state
+ 1254  rails generate active_admin:resource user
+ 1255  rails db:migrate
+ 1256  rails s
+ 1257  rails db:seed
+ 1258  rails s
+ 1259  git status
+ 1260  git add .
+ 1261  git commit -m "generated active admin resources & minor fix
+ 1262  bypassed authorisation for admin pages
+ 1263  "
+ 1264  git remote
+ 1265  git push heroku
+ 1266  heroku rake db:migrate
+ 1267  rails g serializer user
+ 1268  bundle
+ 1269  rails s
+ 1270  git add .
+ 1271  git commit -m 'backend codeing almost done
+ 1272  added jbuilder
+ 1273  added routes
+ 1274  '
+ 1275  git push heroku
+ 1276  git push heroku master
+ 1277  git push origin master
+ 1278  git add .
+ 1279  git commit -m 'commented out cors'
+ 1280  git push heroku master
+ 1281  git push origin master
+ 1282  git add .
+ 1283  git status
+ 1284  git add .
+ 1285  git status
+ 1286  git commit -m 'minor change in application controller'
+ 1287  git push heroku master
+ 1288  git status
+ 1289  git add .
+ 1290  git commit -m 'enabled CORS'
+ 1291  git push heroku master
+ 1292  git status
+ 1293  git add .
+ 1294  git commit -m 'fix protect_from_forgery with: :null_session'
+ 1295  git push heroku master
+ 1296  git add .
+ 1297  git commit -m "minor fix in user model file"
+ 1298  git push heroku master
+ 1299  git add .
+ 1300  git commit -m "added states in seeds file"
+ 1301  git push heroku master
+ 1302  heroku rake db:seed
+ 1303  git add .
+ 1304  git commit -m "commented out admins"
+ 1305  git push heroku master
+ 1306  heroku rake db:seed
+ 1307  git status
+ 1308  git push origin master
+ 1309  git status
+ 1310  git add .
+ 1311  git commit -m "minor change in contacts update worker
+ 1312  for fixing email id issue
+ 1313  "
+ 1314  git push secondary:master
+ 1315  git push secondary sync_phone_contacts:master
+ 1316  heoku rails console
+ 1317  heroku rails console
+ 1318  heroku run rails console --app atdab-staging
+ 1319  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1320  history
+ 1321  npm start
+ 1322  cd ..
+ 1323  sudo /etc/init.d/mysql restart
+ 1324  mysql> select user();
+ 1325  mysql
+ 1326  npm install redux-thunk
+ 1327  npm install axios
+ 1328  npm install react-redux
+ 1329  npm install redux-form
+ 1330  npm install redux
+ 1331  npm install react-router-dom
+ 1332  npm install babel-loader
+ 1333  git status
+ 1334  git add .
+ 1335  git commit -m "added login page and signuppage
+ 1336  added redux-thunk
+ 1337  cleaned intial codes
+ 1338  "
+ 1339  git push origin master 
+ 1340  git remote
+ 1341  git remote v
+ 1342  git remote -v
+ 1343  npm build
+ 1344  npm run build
+ 1345  firebase deploy
+ 1346  git status
+ 1347  git add .
+ 1348  git commit -m "contact sync last stage
+ 1349  added workers to update invite,suggestion table
+ 1350  workers start on event after_save in user,friend,contact tables
+ 1351  "
+ 1352  git push secondary sync_phone_contacts:master 
+ 1353  heroku run rails console
+ 1354  heroku run rails console --app atdab-staging
+ 1355  react-native log-android
+ 1356  react-native run-android
+ 1357  adb shell input text "RR"
+ 1358  react-native run-android
+ 1359  adb shell input text "RR"
+ 1360  react-native run-android
+ 1361  adb shell input text "RR"
+ 1362  cd android/
+ 1363  ./gradlew assembleRelease
+ 1364  cd ..
+ 1365  react-native run-android
+ 1366  cd android/
+ 1367  ./gradlew assembleRelease
+ 1368  whois
+ 1369  who
+ 1370  ls
+ 1371  pwd
+ 1372  cd ..
+ 1373  ls
+ 1374  cd ..
+ 1375  cd media/
+ 1376  ls
+ 1377  cd mary/
+ 1378  ls
+ 1379  cd 27C9DE197703C004/
+ 1380  ls
+ 1381  cd kj_projects/
+ 1382  ls
+ 1383  cd 16.04/
+ 1384  la
+ 1385  ls
+ 1386  cd kj/
+ 1387  ls
+ 1388  cd react/
+ 1389  cd 2019
+ 1390  cd At_daB/
+ 1391  git status
+ 1392  git add .
+ 1393  git commit -m "added code to show add or invite option corresponding to sync contacts"
+ 1394  git push orign sync_phone_contacts
+ 1395  git push origin sync_phone_contacts
+ 1396  CD ..
+ 1397  cd ..
+ 1398  cd 2018
+ 1399  ls
+ 1400  cd October/
+ 1401  cd Freelance/
+ 1402  cd BackEnd/
+ 1403  ls
+ 1404  git status
+ 1405  git push origin sync_phone_contacts
+ 1406  shutdown -h now
+ 1407  heroku run rails console
+ 1408  heroku run rails console --app atdab-staging
+ 1409  git status
+ 1410  git add .
+ 1411  git status
+ 1412  git commit -m "forgot the changes mad minor changes and some cleaning in code"
+ 1413  clear
+ 1414  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1415  react-native start --reset-cache
+ 1416  heroku run rails console
+ 1417  heroku run rails console --app atdab-staging
+ 1418  git status
+ 1419  git add .
+ 1420  git commit -m "minor fix in invite suggestion worker
+ 1421  fix to avoid suggesting same user
+ 1422  "
+ 1423  git push secondary sync_phone_contacts:master
+ 1424  git push origin sync_phone_contacts 
+ 1425  git status
+ 1426  git add .
+ 1427  git commit -m "added changes to support add/cancel button in suggestions
+ 1428  made corresponding changes in workers
+ 1429  made changes in jbuilder file to combine the list
+ 1430  forgot to update  suggestion model....going to change
+ 1431  "
+ 1432  heroku run rails console
+ 1433  heroku run rails console --app atdab-staging
+ 1434  rails generate migration AddRequestSendToSuggestions request_send:boolean
+ 1435  git status
+ 1436  git add .
+ 1437  git status
+ 1438  git add .
+ 1439  git status
+ 1440  git commit -m "added new coloumns,added suggestion status in jbuilder
+ 1441  added migration for adding new coloumns in suggestions table
+ 1442  request_send request_recevied returned in friends list
+ 1443  v
+ 1444  "
+ 1445  git push secondary sync_phone_contacts:master 
+ 1446  heroku rake db:migrate
+ 1447  heroku rake db:migrate --app atdab-staging
+ 1448  git status
+ 1449  git commit -m " minor bug fix
+ 1450  minor change in invite suggestion worker o fix undefined method empty?
+ 1451  "
+ 1452  git push secondary sync_phone_contacts:master
+ 1453  git commit -m " minor bug fix
+ 1454  minor change in invite suggestion worker o fix undefined method empty?
+ 1455  "
+ 1456  git add .
+ 1457  git status
+ 1458  git commit -m " minor bug fix
+ 1459  minor change in invite suggestion worker o fix undefined method empty?
+ 1460  "
+ 1461  git push secondary sync_phone_contacts:master
+ 1462  heroku run rails console
+ 1463  heroku run rails console --app atdab-staging
+ 1464  git status
+ 1465  git add .
+ 1466  git commit -m "fixinf undefined metho error empty
+ 1467  made change in invite suggestion worker"
+ 1468  git status
+ 1469  git push secondary sync_phone_contacts:master
+ 1470  git status
+ 1471  git add .
+ 1472  git com
+ 1473  git commit -m "minor fix for logical error
+ 1474  fixing logical error in invite suggestion worker
+ 1475  "
+ 1476  git push secondary sync_phone_contacts:master
+ 1477  git status
+ 1478  git add .
+ 1479  git commit -m "minor bug fix
+ 1480  modified invite suggestion file to fix nil method error
+ 1481  "
+ 1482  git push secondary sync_phone_contacts:master
+ 1483  git status
+ 1484  git add .
+ 1485  git commit -m "minor syntax fix
+ 1486  change made in jbuilder file friends index
+ 1487  "
+ 1488  git push secondary sync_phone_contacts:master
+ 1489  git status
+ 1490  git add .
+ 1491  git commit -m "minor syntax fix
+ 1492  change made in jbuilder file friends index
+ 1493  "
+ 1494  git push secondary sync_phone_contacts:master
+ 1495  git status
+ 1496  git add .
+ 1497  git commit -m "minor syntax fix
+ 1498  in jbuilder file"
+ 1499  git push secondary sync_phone_contacts:master
+ 1500  heroku run rails console
+ 1501  heroku run rails console --app stdab-staging
+ 1502  heroku run rails console --app atdab-staging
+ 1503  git status
+ 1504  git push secondary sync_phone_contacts:master 
+ 1505  git remote -v
+ 1506  git remote rm secondary
+ 1507  git remote -v
+ 1508  git remote add secondary https://git.heroku.com/atdab-staging.git
+ 1509  git push secondary sync_phone_contacts:master 
+ 1510  git remote -v
+ 1511  git push secondary sync_phone_contacts:master 
+ 1512  heroku run rails console
+ 1513  heroku run rails console --app atdab-staging
+ 1514  ping 8.8.8.8
+ 1515  ping www.google.com
+ 1516  ping www.duckduckgo.com
+ 1517  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1518  react-native start --reset-cache
+ 1519  react-native run-android
+ 1520  react-native log-android
+ 1521  adb shell input text "RR"
+ 1522  react-native log-android
+ 1523  react-native run-android
+ 1524  react-native log-android
+ 1525  adb shell input text "RR"
+ 1526  react-native run-android
+ 1527  react-native log-android
+ 1528  adb shell input text "RR"
+ 1529  react-native log-android
+ 1530  adb shell input text "RR"
+ 1531  react-native run-android
+ 1532  adb shell input text "RR"
+ 1533  react-native run-android
+ 1534  react-native log-android
+ 1535  adb shell input text "RR"
+ 1536  react-native run-android
+ 1537  adb shell input text "RR"
+ 1538  react-native log-android
+ 1539  react-native run-android
+ 1540  adb shell input text "RR"
+ 1541  react-native run-android
+ 1542  react-native log-android
+ 1543  adb shell input text "RR"
+ 1544  react-native log-android
+ 1545  adb shell input text "RR"
+ 1546  react-native run-android
+ 1547  react-native log-android
+ 1548  adb shell input text "RR"
+ 1549  react-native log-android
+ 1550  react-native run-android
+ 1551  adb shell input text "RR"
+ 1552  react-native run-android
+ 1553  adb shell input text "RR"
+ 1554  react-native run-android
+ 1555  adb shell input text "RR"
+ 1556  git status
+ 1557  git add .
+ 1558  git commit -m "syntax error fix in jbuilder filev
+ 1559  "
+ 1560  git push secondary sync_phone_contacts:master 
+ 1561  git status
+ 1562  git add .
+ 1563  git commit -m "trying to combine list returned from friends index
+ 1564  "
+ 1565  git push secondary sync_phone_contacts:master 
+ 1566  git status
+ 1567  git add .
+ 1568  git commit -m "trying to combine list returned from friends index
+ 1569  "
+ 1570  git push secondary sync_phone_contacts:master 
+ 1571  git status
+ 1572  git add .
+ 1573  git commit -m "tryingto add index"
+ 1574  git push secondary sync_phone_contacts:master 
+ 1575  git status
+ 1576  git add .
+ 1577  git commit -m "change image url to null for invites"
+ 1578  git push secondary sync_phone_contacts:master 
+ 1579  git status
+ 1580  git commit -m "change image url back from  null to previous for invites"
+ 1581  git add .
+ 1582  git commit -m "change image url back from  null to previous for invites"
+ 1583  git push secondary sync_phone_contacts:master 
+ 1584  git status
+ 1585  git commit -m "change image url back from  null to previous for invites"
+ 1586  git push secondary sync_phone_contacts:master 
+ 1587  git status
+ 1588  git add .
+ 1589  git commit -m "friends list fixed
+ 1590  made as a single list
+ 1591  "
+ 1592  git status
+ 1593  git push origin sync_phone_contacts 
+ 1594  git status
+ 1595  git add .
+ 1596  git commit -m "code to reload friends list
+ 1597  after acceept,cancel,add
+ 1598  "
+ 1599  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1600  react-native start --reset-cache
+ 1601  git status
+ 1602  git add .
+ 1603  git commit -m "change in friends list returned
+ 1604  inside suggestions list,now friend_id returns the user_id
+ 1605  so as to support add friends function
+ 1606  "
+ 1607  git push secondary sync_phone_contacts:master 
+ 1608  git status
+ 1609  git add .
+ 1610  git commit -m "cleaned code
+ 1611  removed unused route contact_update,unused controller function,deleted worker file
+ 1612  removed commented code in friends controller
+ 1613  "
+ 1614  git status
+ 1615  git add .
+ 1616  git commit -m "changes to handle cancel,remove friend scenario
+ 1617  added a worker to update suggest table before destroy
+ 1618  added code to start worker in friend model
+ 1619  "
+ 1620  git status
+ 1621  git add .
+ 1622  git commit -m "added @save in ondestroyfriendworker
+ 1623  "
+ 1624  git status
+ 1625  git push secondary sync_phone_contacts:master 
+ 1626  git status
+ 1627  git add .
+ 1628  git commit -m "syntax error fix
+ 1629  forgot end in on destroy worker
+ 1630  "
+ 1631  git push secondary sync_phone_contacts:master 
+ 1632  heroku run rails console
+ 1633  heroku run rails console --app atdab-staging
+ 1634  git status
+ 1635  git push origin sync_phone_contacts
+ 1636  git add .
+ 1637  git status
+ 1638  git commit -m "fixing duplicate invites"
+ 1639  git push secondary sync_phone_contacts:master 
+ 1640  npm start
+ 1641  git status
+ 1642  git add .
+ 1643  git status
+ 1644  git commit -m "added dashboard skelton"
+ 1645  git status
+ 1646  git push origin master
+ 1647  npm run build
+ 1648  firebase deploy
+ 1649  git status
+ 1650  git add .
+ 1651  git commit -m "added lastest changes"
+ 1652  git push origin master
+ 1653  git status
+ 1654  git push origin sync_phone_contacts 
+ 1655  npm start
+ 1656  git status
+ 1657  git add .
+ 1658  git commit -m "added link to traverse between login signup page"
+ 1659  git push origin master
+ 1660  git status
+ 1661  git add .
+ 1662  git commit -m "pagination added in friends controller"
+ 1663  git push secondary sync_phone_contacts:master 
+ 1664  git status
+ 1665  git add .
+ 1666  git commit -m "added puts statement to inspect pagenated result"
+ 1667  git push secondary sync_phone_contacts:master 
+ 1668  git status
+ 1669  git commit -m "minor change"
+ 1670  git status
+ 1671  git add .
+ 1672  git commit -m "minor change"
+ 1673  git push secondary sync_phone_contacts:master 
+ 1674  git status
+ 1675  git add .
+ 1676  git commit -m "minor change in friends list pagintaion
+ 1677  if page=1 then load 10 friends
+ 1678  else load last n-10 friends
+ 1679  "
+ 1680  git push secondary sync_phone_contacts:master 
+ 1681  git status
+ 1682  git add .
+ 1683  git commit -m "minor change parama received"
+ 1684  git status
+ 1685  git push secondary sync_phone_contacts:master 
+ 1686  git status
+ 1687  git add .
+ 1688  git status
+ 1689  git commit -m "minor fix in firends conroller route"
+ 1690  git push secondary sync_phone_contacts:master 
+ 1691  git status
+ 1692  git add .
+ 1693  git commit -m "added puts statements to check page number value"
+ 1694  git push secondary sync_phone_contacts:master 
+ 1695  git status
+ 1696  git add .
+ 1697  git commit -m "checking variable type "
+ 1698  git push secondary sync_phone_contacts:master 
+ 1699  git status
+ 1700  git add .
+ 1701  git commit -m "minor error fix"
+ 1702  git push secondary sync_phone_contacts:master
+ 1703  git status
+ 1704  git add .
+ 1705  git commit -m 'removed to_json from render
+ 1706  in friends#index'
+ 1707  git push secondary sync_phone_contacts:master
+ 1708  git status
+ 1709  git push origin sync_phone_contacts 
+ 1710  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1711  react-native start --reset-cache
+ 1712  react-native run-android
+ 1713  react-native log-android
+ 1714  react-native run-android
+ 1715  react-native log-android
+ 1716  adb shell input text "RR"
+ 1717  react-native run-android
+ 1718  react-native log-android
+ 1719  adb shell input text "RR"
+ 1720  react-native run-android
+ 1721  react-native log-android
+ 1722  react-native run-android
+ 1723  react-native log-android
+ 1724  adb shell input text "RR"
+ 1725  git status
+ 1726  git add .
+ 1727  git commit -m "added pagination in friends list"
+ 1728  git push origin sync_phone_contacts 
+ 1729  cd android/
+ 1730  ./gradlew assembleRelease
+ 1731  npm start
+ 1732  git status
+ 1733  git add .
+ 1734  git commit -m "registration form design done"
+ 1735  git status
+ 1736  git push origin master
+ 1737  npm run build
+ 1738  firebase deploy
+ 1739  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1740  react-native start --reset-cache
+ 1741  react-native run-android
+ 1742  react-native log-android
+ 1743  react-native run-android
+ 1744  react-native log-android
+ 1745  react-native run-android
+ 1746  adb devices
+ 1747  adb kill-server
+ 1748  adb devices
+ 1749  react-native run-android
+ 1750  adb devices
+ 1751  react-native run-android
+ 1752  adb devices
+ 1753  react-native run-android
+ 1754  adb devices
+ 1755  react-native run-android
+ 1756  react-native log-android
+ 1757  adb shell input text "RR"
+ 1758  cd android/
+ 1759  git status
+ 1760  git add .
+ 1761  git commit -m "alphabet index retrurned in friends list
+ 1762  for showing in the friends list
+ 1763  modified friends controller
+ 1764  "
+ 1765  git push secondary sync_phone_contacts:master 
+ 1766  git status
+ 1767  git add .
+ 1768  git commit -m "uppercase all alphabets
+ 1769  in friends controller
+ 1770  "
+ 1771  git push secondary sync_phone_contacts:master 
+ 1772  git status
+ 1773  git add .
+ 1774  git commit -m "added heading in friends list
+ 1775  modified friends controller
+ 1776  "
+ 1777  git push secondary sync_phone_contacts:master 
+ 1778  git status
+ 1779  git add .
+ 1780  git commit -m "syntax error fix
+ 1781  in friends controller file
+ 1782  "
+ 1783  git push secondary sync_phone_contacts:master 
+ 1784  git status
+ 1785  git push origin sync_phone_contacts
+ 1786  git status
+ 1787  git add .
+ 1788  git commit -m "alphabet index,headings add
+ 1789  in friends list page
+ 1790  made minor fix in loading issues
+ 1791  "
+ 1792  git push origin sync_phone_contacts 
+ 1793  git status
+ 1794  git add .
+ 1795  git commit -m "added gsub to remove space from pno
+ 1796  modified the file contacts update worker
+ 1797  for identifying,removeing duplicae numbers
+ 1798  "
+ 1799  git push secondary sync_phone_contacts:master 
+ 1800  heroku run rails console
+ 1801  heroku run rails console --app atdab-staging
+ 1802  git status
+ 1803  git add .
+ 1804  git commit -m "minor change in gsub exp
+ 1805  change made in contacts update worker
+ 1806  "
+ 1807  git push secondary sync_phone_contacts:master 
+ 1808  react-native run-android
+ 1809  react-native start --reset-cache
+ 1810  react-native log-android
+ 1811  git status
+ 1812  git add .
+ 1813  git commit -m "enabled invite button
+ 1814  added whatsapp,sms
+ 1815  fixed conacts number in searchbar
+ 1816  alignment fixes in friends list
+ 1817  "
+ 1818  git pull origin sync_phone_contacts 
+ 1819  git status
+ 1820  git push origin sync_phone_contacts 
+ 1821  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1822  react-native run-android
+ 1823  cd android/
+ 1824  ./gradlew assembleRelease
+ 1825  cd ..
+ 1826  git status
+ 1827  git add .
+ 1828  git commit -m "added template message in sms 
+ 1829  "
+ 1830  git status
+ 1831  git pull origin sync_phone_contacts 
+ 1832  git push origin sync_phone_contacts 
+ 1833  adb shell input text "RR"
+ 1834  react-native start --reset-cache
+ 1835  git add .
+ 1836  git status
+ 1837  git commit -m "show each numbers in invite list seperately 
+ 1838  added if condition inside friends controller
+ 1839  "
+ 1840  git push secondary sync_phone_contacts:master
+ 1841  git status
+ 1842  git pull origin sync_phone_contacts 
+ 1843  git push orign sync_phone_contacts 
+ 1844  git push origin sync_phone_contacts 
+ 1845  npm start
+ 1846  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1847  npm start
+ 1848  git status
+ 1849  git add .
+ 1850  git commit -m "added redux-form,validation"
+ 1851  git push origin master
+ 1852  npm start
+ 1853  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1854  git status
+ 1855  rails s -p 3001 -b 0.0.0.0
+ 1856  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1857  npm start
+ 1858  git status
+ 1859  git add .
+ 1860  git commit -m "bug fixes
+ 1861  fixed token,login isssues
+ 1862  fetched user profile using token
+ 1863  added name in header file
+ 1864  "
+ 1865  git push origin master
+ 1866  npm run build
+ 1867  firebase deploy
+ 1868  npm run build
+ 1869  firebase deploy
+ 1870  git status
+ 1871  npm run build
+ 1872  firebase deploy
+ 1873  npm start
+ 1874  git status
+ 1875  git add .
+ 1876  git commit -m "fixed error message issue
+ 1877  added new action in reducer for login start,signupstart
+ 1878  "
+ 1879  git push orign master
+ 1880  git push origin master
+ 1881  NPM RUN BUILD
+ 1882  npm run build
+ 1883  firebase deploy
+ 1884  git status
+ 1885  git add .
+ 1886  git status
+ 1887  git commit -m "bug fixes
+ 1888  fetch profile done
+ 1889  made changes user table
+ 1890  added default value in emp type
+ 1891  "
+ 1892  git status
+ 1893  git push origin master
+ 1894  git push heroku master 
+ 1895  heroku rake db:migrate
+ 1896  react-native log-android
+ 1897  git status
+ 1898  emulator -avd Nexus_5X_API_27 -use-system-libs
+ 1899  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1900  react-native start --reset-cache
+ 1901  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1902  react-native run-android
+ 1903  react-native log-android
+ 1904  react-native run-android
+ 1905  cd android/
+ 1906  ./gradlew assembleRelease
+ 1907  d ..
+ 1908  cd ..
+ 1909  adb shell input text "RR"
+ 1910  emulator -avd Nexus_5X_API_27 -use-system-libs
+ 1911  git status
+ 1912  git status
+ 1913  git commit -m "permissions fix,paytm
+ 1914  run time permissions done and fine
+ 1915  some issues pending in sms
+ 1916  paytm done,deeplink code in accountmanger package
+ 1917  "
+ 1918  git satus
+ 1919  git status
+ 1920  git add .
+ 1921  git commit -m "permissions fix,paytm
+ 1922  run time permissions done and fine
+ 1923  some issues pending in sms
+ 1924  paytm done,deeplink code in accountmanger package
+ 1925  "
+ 1926  git push origin sync_phone_contacts 
+ 1927  git pull origin sync_phone_contacts 
+ 1928  git push origin sync_phone_contacts 
+ 1929  git add .
+ 1930  git pull origin master 
+ 1931  git push origin master
+ 1932  git status
+ 1933  git commit -m "added paytm deeplinking"
+ 1934  git push origin master
+ 1935  git clone https://github.com/p4carr/faithmo.git
+ 1936  cd faithmo/
+ 1937  npm install
+ 1938  npm start
+ 1939  git status
+ 1940  git add .
+ 1941  git commit -m "send sms function added and working fine"
+ 1942  git push origin master
+ 1943  git status
+ 1944  git add .
+ 1945  git commit -m "sms invite issue fixed
+ 1946  added java code in accountmanager package
+ 1947  removed send sms permission requests
+ 1948  "
+ 1949  git status
+ 1950  git pull origin sync_phone_contacts 
+ 1951  git push origin sync_phone_contacts 
+ 1952  react-native start --reset-cache
+ 1953  react-native run-android
+ 1954  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1955  react-native run-android
+ 1956  adb shell input text "RR"
+ 1957  react-native run-android
+ 1958  adb shell input text "RR"
+ 1959  react-native run-android
+ 1960  react-native log-android
+ 1961  adb shell input text "RR"
+ 1962  react-native log-android
+ 1963  adb shell input text "RR"
+ 1964  react-native log-android
+ 1965  react-native run-android
+ 1966  react-native log-android
+ 1967  react-native run-android
+ 1968  adb shell input text "RR"
+ 1969  cd android/
+ 1970  ./gradlew assembleRelease
+ 1971  d cd ..
+ 1972  cd ..
+ 1973  react-native run-android
+ 1974  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1975  react-native run-android
+ 1976  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1977  react-native run-android
+ 1978  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1979  react-native run-android
+ 1980  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1981  react-native run-android
+ 1982  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1983  react-native run-android
+ 1984  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1985  react-native run-android
+ 1986  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1987  react-native run-android
+ 1988  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1989  react-native run-android
+ 1990  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1991  react-native run-android
+ 1992  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1993  adb shell input text "RR"
+ 1994  pid=$(adb shell ps | grep com.atdabnew | cut -c11-15) ; adb logcat | grep $pid
+ 1995  cd android/
+ 1996  ./gradlew assembleRelease
+ 1997  cd ..
+ 1998  sudo sysctl fs.inotify.max_user_watches=9224288
+ 1999  git status
+ 2000  history >june_2019
